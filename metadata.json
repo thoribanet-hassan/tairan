@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Safar - AI Travel Assistant",
+  "description": "A comprehensive travel planning dashboard powered by Gemini. Search flights, hotels, and generate AI-curated itineraries with real-time grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
